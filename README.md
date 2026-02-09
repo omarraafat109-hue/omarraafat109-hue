@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="120"/>
 
-<h1>Hi 👋, I'm Omar Raafat</h1>
+<h1>👋Omar Raafat</h1>
 <h3>Engineering Student | CCE (Computer & Communication Engineering)</h3>
 <h4>Level 100 – Passionate about Networks & Programming</h4>
 
