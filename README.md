@@ -61,7 +61,8 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: *(add later if you want)*
+- 📧 Email: *(omarraafat109@gmail.com)*
+- 
 - 💼 LinkedIn: *(recommended to add soon)*
 
 ---
